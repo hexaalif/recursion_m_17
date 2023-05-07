@@ -13,7 +13,7 @@ void hello()
 
 int main()
 {
-    hello();
+    // hello();
     printf("end\n");
     return 0;
 }
