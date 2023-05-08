@@ -15,5 +15,6 @@ int main()
 {
     // hello();
     printf("end\n");
+    printf("ok");
     return 0;
 }
